@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter, React Native**
+- 🌱 I’m currently learning **Flutter, SwiftUI**
 
 - 📝 I regularly write articles on [https://burakimdat.medium.com](https://burakimdat.medium.com)
 
