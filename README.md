@@ -3,11 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Flutter, Go**
+- 🌱 I’m currently learning **Flutter, Swift**
 
 - 📝 I regularly write articles on [https://burakimdat.medium.com](https://burakimdat.medium.com)
-
-- 💬 Ask me about **everything to learn by researching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
